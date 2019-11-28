@@ -1,4 +1,4 @@
-FROM postgres:9.6
+FROM postgres:11.2
 
 ENV POSTGRES_DB app
 ENV POSTGRES_HOST postgresql

@@ -1,4 +1,4 @@
-FROM postgres:11.2
+FROM postgres:12
 
 ENV POSTGRES_DB app
 ENV POSTGRES_HOST postgresql
